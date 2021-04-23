@@ -1,6 +1,6 @@
 # Kickstarting with Excel
 
-## Overview: The purpose of this analysis is to enable Lousie to compare her fundraising compaign against other theaters' campaigns.
+## Overview: The purpose of this analysis is to enable Louise to compare her fundraising compaign against other theaters' campaigns.
 
 ### By comparing how her play, Fever, did, she will be able to understand whether she launched her campaign in the most appropriate month, and whether her fundraising goal was too high or too low to succeed.
 
