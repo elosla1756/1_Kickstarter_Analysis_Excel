@@ -1,15 +1,15 @@
 # Kickstarting with Excel
 
-## The purpose of this analysis is to enable Lousie to compare her fundraising compaign against other theaters' campaigns.
+## Overview: The purpose of this analysis is to enable Lousie to compare her fundraising compaign against other theaters' campaigns.
 
 ### By comparing how her play, Fever, did, she will be able to understand whether she launched her campaign in the most appropriate month, and whether her fundraising goal was too high or too low to succeed.
 
 ## Analysis and Challenges
 
-### Outcomes by Launch Date:
+### Analysis of Outcomes Based on Launch Date:
 ![Theater Outcomes](Resources/Theater_Outcomes_vs_Launch.png)
 
-### Outcomes by Goal:
+### Analysis of Outcomes Based on Goals:
 ![Plays Outcomes](Resources/Plays%20Outcomes_vs_Goals.png)
 
 ### I didn't encounter any difficulties, but potential areas of difficulty could have been: 
