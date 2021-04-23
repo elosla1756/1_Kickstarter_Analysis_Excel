@@ -7,7 +7,7 @@
 ## Analysis and Challenges
 
 ### Add pic of Outcomes by Launch Date
-![Outcomes](Outcomes_vs_Goals.png)
+![Outcomes](Resources/Outcomes_vs_Goals.png)
 
 ### Add pic of Outcomes by Goal
 ![Goals](Resources/Theater_Outcomes_vs_Launch.png)
