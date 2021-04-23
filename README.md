@@ -10,6 +10,7 @@
 ![Outcomes](Outcomes_vs_Goals.png)
 
 ### Add pic of Outcomes by Goal
+![Goals](Resources/Theater_Outcomes_vs_Launch.png)
 
 ### I didn't encounter any difficulties, but potential areas of diffiulty could have been: forgetting to filter the chart on Theater only, and forgetting a goal number which would result in the total number of Successful, Failed and Canceled campaigns not adding up to the Kickstarted tab
 
