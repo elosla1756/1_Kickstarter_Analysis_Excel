@@ -10,7 +10,7 @@
 ![Theater Outcomes](Resources/Theater_Outcomes_vs_Launch.png)
 
 ### Outcomes by Goal:
-![Plays Outcomes](Resources/Plays Outcomes_vs_Goals.png)
+![Plays Outcomes](Resources/Theater_Outcomes_vs_Launch.png)
 
 ### I didn't encounter any difficulties, but potential areas of difficulty could have been: 
 - Forgetting to filter the chart on Theater or Plays only
