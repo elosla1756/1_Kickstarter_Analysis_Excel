@@ -1,18 +1,20 @@
 # Kickstarting with Excel
 
-## This analysis enables Louise to compare how her fundraising comaign outcome against other theaters' campaigns
+## The purpose of this analysis is to enable Lousie to compare her fundraising compaign against other theaters' campaigns.
 
-### By comparing how her play > Fever did, she will be able to undertsand whether she launched her campaign in the most appropriate month, and whether her fundraising goal was too high or too low to succeed 
+### By comparing how her play, Fever, did, she will be able to understand whether she launched her campaign in the most appropriate month, and whether her fundraising goal was too high or too low to succeed.
 
 ## Analysis and Challenges
 
-### Add pic of Outcomes by Launch Date
-![Outcomes](Resources/Outcomes_vs_Goals.png)
+### Outcomes by Launch Date:
+![Theater Outcomes](Resources/Theater_Outcomes_vs_Launch.png)
 
-### Add pic of Outcomes by Goal
-![Goals](Resources/Theater_Outcomes_vs_Launch.png)
+### Outcomes by Goal:
+![Plays Outcomes](Resources/Plays Outcomes_vs_Goals.png)
 
-### I didn't encounter any difficulties, but potential areas of diffiulty could have been: forgetting to filter the chart on Theater only, and forgetting a goal number which would result in the total number of Successful, Failed and Canceled campaigns not adding up to the Kickstarted tab
+### I didn't encounter any difficulties, but potential areas of difficulty could have been: 
+- Forgetting to filter the chart on Theater or Plays only
+- Forgetting a goal number which would result in the total number of Successful, Failed and Canceled campaigns not adding up to the number in the Kickstarted tab
 
 ## Results
 
@@ -23,7 +25,7 @@
 
 - What can you conclude about the Outcomes based on Goals?
 1. Most Plays with a campaign goal of $20,000 to $34,999 and over $44,999 failed
-2. It is best to launch Plays campaign with a maximum goal of $19,999 in order to succcess in achieving her goal
+2. It is best to launch Plays campaign with a maximum goal of $19,999 in order to succceed in achieving her goal
 
 - What are some limitations of this dataset?
 1. These 2 charts do not take into account by how much the campaigns fail to achieve their goals
